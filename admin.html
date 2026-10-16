@@ -200,13 +200,8 @@
     async function refreshRecentList() {
       const listContainer = document.getElementById('recent-list');
       try {
-        const { data, error } = await window.newsDataManager.client
-          .from('news')
-          .select('*')
-          .order('created_at', { ascending: false })
-          .limit(20);
+        const data = await window.newsDataManager.fetchRecentNews(30);
 
-        if (error) throw error;
         if (!data || data.length === 0) {
           listContainer.innerHTML = '<div class="py-8 text-center text-gray-400 text-xs">暂无新闻记录</div>';
           return;

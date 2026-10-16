@@ -41,21 +41,23 @@ class NewsDataManager {
     try {
       const todayStr = this.getTodayString();
       
-      // 优先获取当天新闻
+      // 优先获取当天真实新闻（id > 48 彻底排除测试种子数据）
       let { data, error } = await this.client
         .from('news')
         .select('*')
+        .gt('id', 48)
         .eq('publish_date', todayStr)
         .order('display_priority', { ascending: false })
-        .order('created_at', { ascending: false });
+        .order('id', { ascending: false });
 
       if (error) throw error;
 
-      // 如果当天新闻为空（例如凌晨或换日未及时录入），降级获取最新一天的记录以保障界面充实
+      // 如果当天新闻为空，降级获取最新一天的真实新闻记录
       if (!data || data.length === 0) {
         const latestResp = await this.client
           .from('news')
           .select('publish_date')
+          .gt('id', 48)
           .order('publish_date', { ascending: false })
           .limit(1);
         
@@ -64,9 +66,10 @@ class NewsDataManager {
           const fallbackResp = await this.client
             .from('news')
             .select('*')
+            .gt('id', 48)
             .eq('publish_date', latestDate)
             .order('display_priority', { ascending: false })
-            .order('created_at', { ascending: false });
+            .order('id', { ascending: false });
           data = fallbackResp.data || [];
         }
       }
@@ -117,14 +120,15 @@ class NewsDataManager {
       const from = (page - 1) * pageSize;
       const to = from + pageSize - 1;
 
-      // 总条数上限为 50 条 (5 页 * 10 条)
+      // 仅查询真实新闻（id > 48），总条数上限为 50 条 (5 页 * 10 条)
       const { data, count, error } = await this.client
         .from('news')
         .select('*', { count: 'exact' })
+        .gt('id', 48)
         .eq('category', category)
         .order('publish_date', { ascending: false })
         .order('display_priority', { ascending: false })
-        .order('created_at', { ascending: false })
+        .order('id', { ascending: false })
         .range(from, to);
 
       if (error) throw error;
@@ -141,6 +145,25 @@ class NewsDataManager {
     } catch (err) {
       console.warn(`获取频道 [${category}] 新闻异常:`, err);
       return null;
+    }
+  }
+
+  // 3. 管理后台：获取最新入库的新闻列表
+  async fetchRecentNews(limit = 30) {
+    try {
+      const { data, error } = await this.client
+        .from('news')
+        .select('*')
+        .gt('id', 48)
+        .order('publish_date', { ascending: false })
+        .order('id', { ascending: false })
+        .limit(limit);
+
+      if (error) throw error;
+      return data || [];
+    } catch (err) {
+      console.warn('获取近期新闻异常:', err);
+      return [];
     }
   }
 

@@ -5,7 +5,7 @@ window.REAL_NEWS_DATA = [
     "title": "中国银河证券：宏观、产业与科技共塑大宗商品定价新范式",
     "content": "第二届中国银河证券大宗商品论坛指出，地缘冲突、能源供给扰动与 AI 技术革命交织，全球利率中枢上行、商品市场波动加剧，传统供需定价逻辑正向宏观、产业与金融多因素共同定价转变。国内商品市场或延续结构性分化，AI 算力、新能源等新兴需求支撑铜、铝等品种，而传统地产、基建需求仍面临压力。AI 既创造新增商品需求，也提升产业效率、改变交易生态，需更加重视波动管理与风险对冲。",
     "display_priority": 2,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -15,7 +15,7 @@ window.REAL_NEWS_DATA = [
     "title": "金融时报：地缘不确定性巩固伦敦实物黄金交易中心地位",
     "content": "受特朗普政策不确定性、全球央行增持黄金及储备资产多元化影响，黄金正加速向美国以外市场回流。伦敦金库黄金储量持续增长，凭借安全托管、场外交易及黄金借贷等成熟基础设施，继续保持实物黄金交易主导地位。与此同时，新加坡、中国香港等亚洲金融中心积极争夺黄金交易与清算业务黄金代币等数字资产的发展也为传统市场带来新的竞争。",
     "display_priority": 1,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -25,7 +25,7 @@ window.REAL_NEWS_DATA = [
     "title": "SGX 上市“一带一路”债券 ETF",
     "content": "10 月 15 日，新加坡交易所（SGX）上市“一带一路”债券指数 ETF。该产品由银河海外（新加坡）管理，工商银行新加坡分行提供投顾服务，跟踪中国外汇交易中心定制的“一带一路主题债券”指数。该产品支持新元与离岸人民币双币种交易，为境外投资者配置在岸人民币资产提供便捷渠道，有助于促进新加坡离岸人民币市场发展。（新加坡办供稿）",
     "display_priority": 1,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -35,7 +35,7 @@ window.REAL_NEWS_DATA = [
     "title": "霍尔木兹海峡化肥运输遇阻或引发粮食危机",
     "content": "近日，联合国官员表示，若美国和伊朗未能在未来几周就霍尔木兹海峡化肥运输方案达成协议，亚洲和非洲部分地区可能面临粮食安全危机。霍尔木兹海峡承担全球约 1/3 的尿素及近一半的海运硫磺运输量，目前该地区化肥出口近乎停摆。为此，联合国提出化肥运输保障方案，拟通过船舶登记等措施恢复化肥运输，预计每天保障 5 艘船舶通行，即可维持对化肥紧缺国家的基本供应。",
     "display_priority": 1,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -45,7 +45,7 @@ window.REAL_NEWS_DATA = [
     "title": "ICE 原糖期货价格升至 19 个月以来高位",
     "content": "近期，受国际油价上涨及巴西总统选举不确定性影响，洲际交易所（ICE）原糖期货价格于本周二上涨至 21.10 美分/磅，创 19 个月以来新高。近期巴西甘蔗压榨量、含糖量及制糖比例均低于预期；10 月强降雨预期，食糖供应进一步趋紧；中东冲突推高国际油价，促使巴西糖厂增加乙醇生产。未来巴西总统选举可能影响燃料定价政策及糖厂生产决策，影响全球食糖供给和价格走势。",
     "display_priority": 1,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -55,7 +55,7 @@ window.REAL_NEWS_DATA = [
     "title": "FSB 发布 AI 应用良好实践最终报告",
     "content": "10 月 15 日，金融稳定理事会（FSB）发布《负责任采用 AI 的良好实践》最终报告，提出 12 项实践，旨在帮助金融机构发挥 AI 技术优势，有效防范相关风险。报告重点涵盖两个方面：完善机构层面的 AI 治理体系，强化董事会和高级管理层监督职责，将 AI 风险纳入整体风险管理框架；加强 AI 全生命周期风险管理，涵盖技术选择、数据治理、模型可解释性、人工监督、网络安全及第三方依赖风险等。",
     "display_priority": 1,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -65,7 +65,7 @@ window.REAL_NEWS_DATA = [
     "title": "ESMA 更新交易透明度监管手册",
     "content": "10 月 15 日，欧洲证券和市场管理局（ESMA）发布新版《MiFID II/MiFIR 交易前及交易后透明度手册》，涵盖股票、债券、衍生品等金融工具，明确交易信息披露范围、报告主体、披露时限及延期披露规则，并规范交易透明度指标计算和综合行情数据报送要求。本次更新重点补充股票最小报价单位制度相关指引，明确场外衍生品识别参考数据的填报要求，删除已停用系统的相关报告指引，旨在统一监管实践，提高市场透明度和数据质量。",
     "display_priority": 1,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -75,7 +75,7 @@ window.REAL_NEWS_DATA = [
     "title": "TFEX 将延长货币、贵金属及橡胶衍生品交易时间",
     "content": "10 月 15 日，泰国期货交易所（TFEX）宣布，自 11 月 16 日起将货币期货和期权、贵金属及橡胶期货的开市时间由上午 9:45 提前至 8:00，贵金属及橡胶期货日盘收市时间保持不变，相关产品夜盘交易时间也维持现有安排。此次调整旨在提高交易灵活性，帮助投资者更好地管理风险并及时应对全球市场变化。",
     "display_priority": 1,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -85,7 +85,7 @@ window.REAL_NEWS_DATA = [
     "title": "韩国股市遭遇“黑色星期四”，两大股指双双触发熔断",
     "content": "10 月 15 日，受 AI 投资盈利前景不确定性及美国通胀引发的利率压力影响，韩国股市大幅下跌。KOSPI 和 KOSDAQ 指数分别下跌 7.57%和 7.65%，均触发熔断机制。其中，KOSPI 连续 7 个交易日下跌，累计跌幅达 21%，外国投资者当日净卖出股票超过 3.6 万亿韩元。韩国金融监管部门紧急召开会议，加强市场监测，严厉打击散布虚假信息、操纵市场价格等扰乱市场秩序的行为。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -95,7 +95,7 @@ window.REAL_NEWS_DATA = [
     "title": "恒逸石化前三季度归母净利润预计同比增长超 33 倍",
     "content": "10 月 15 日，恒逸石化发布 2026 年前三季度业绩预告，预计实现归母净利润 79 亿元至 81 亿元，同比增长 3318.59%至 3405.13%；扣除非经常性损益后的净利润达 78.3 亿元至 80.3 亿元，同比增长 9836.98%至 10090.80%。业绩增长主要得益于东南亚成品油供需偏紧，文莱炼厂保持满负荷运转，成品油及化工产品盈利维持高位；同时，己内酰胺—聚酰胺一体化项目产销两旺，PTA、瓶片及聚酯长丝等产品单吨利润同比增长。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -105,7 +105,7 @@ window.REAL_NEWS_DATA = [
     "title": "中国台湾地区因涉嫌选举博彩封锁 Coinbase 和 Kalshi 网站",
     "content": "近日，中国台湾地区监管部门以涉嫌违反《公职人员选举罢免法》为由，限制当地用户访问加密货币交易平台 Coinbase 和预测市场平台 Kalshi。该法律禁止以选举或罢免结果为标的开展营利性博彩活动，违规经营者最高可面临 5 年监禁。监管部门表示，此举旨在维护选举公正性、防范境外干预。随着 11 月 28 日地方选举临近，当地正加强对非法资金流动及选举博彩活动的监管。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -115,7 +115,7 @@ window.REAL_NEWS_DATA = [
     "title": "布伦特原油期货价格与现货市场脱节，削弱其风险管理功能",
     "content": "近日，华尔街资深分析师 Jeff Currie 表示，受中东冲突影响，全球原油供应短缺加剧，布伦特原油现货价格接近 130 美元/桶，而相关期货价格仍徘徊在 106 美元/桶，未能充分反映现货供应紧张。Jeff Currie 认为，这种脱节源于部分布伦特原油期货采用现金结算，缺乏实物交割约束。期现价格背离促使部分交易商退出市场，布伦特原油期货持仓量已降至近期低位。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-16",
     "created_at": "2026-10-16T06:10:43.998984+00:00"
   },
@@ -125,7 +125,7 @@ window.REAL_NEWS_DATA = [
     "title": "中金：通胀反弹支持加息，时点仍有悬念",
     "content": "美国 9 月 CPI 同比上涨 3.7%，核心 CPI 同比上涨 2.6%，均超预期反弹，主要受能源、核心商品及房租涨价推动。尽管通胀反弹强化了美联储进一步加息的必要性，但美债收益率上行、美元走强已推动金融条件收紧，美联储或暂缓行动，下一次加息可能推迟至 12 月。加息节奏放缓不代表政策转向宽松，未来一年美国货币政策仍可能维持偏紧。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -135,7 +135,7 @@ window.REAL_NEWS_DATA = [
     "title": "中信建投：本轮铜价强势并非短期波动，而是已完成中枢上移",
     "content": "历史规律表明，新增产能集中释放期过后，随着供给增速回落、库存消耗，铜价形成新的更高中枢。2021 年以来铜价走强，主要源于超级周期项目集中兑现后的供给减速，同时电网建设、交通电气化和数字基础设施等低价格敏感度需求增长。叠加矿山品位下降、开发成本上升及项目周期延长，高价格难以迅速转化为新增供给。未来铜价仍有波动，但供给约束与结构性需求有望支撑其运行中枢上移。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -145,7 +145,7 @@ window.REAL_NEWS_DATA = [
     "title": "特朗普政府考虑放宽对“影子船队”制裁以降低运费",
     "content": "10 月 14 日美国政府官员表示，为扩大海湾地区原油出口，特朗普政府考虑放宽相关制裁措施，允许企业在向财政部申请后，使用相关船只运输“合法石油”（非受制裁油种）。受伊朗和乌克兰战争影响，全球油轮运费已飙升至创纪录高位，油价高企对特朗普的中期选举带来压力。但行业人士指出，若船舶保险公司仍受欧盟及英国法规约束，放宽限制对降低运费作用有限。（新加坡办供稿）",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -155,7 +155,7 @@ window.REAL_NEWS_DATA = [
     "title": "德国放宽含糖饮料税方案",
     "content": "10 月 14 日，德国联邦内阁批准含糖饮料税修订方案，将原定的三级税率调整为两级，计划于 2027 年 7 月 1 日起实施。根据新方案，每 100 毫升含糖量达到 5 克但不足 8 克的饮料，每升征税 0.26 欧元；含糖量达到 8 克及以上的饮料，每升征税 0.32 欧元；年产量不超过 100 万升的独立生产商可享受免税。目前，该方案仍需议会审议，相关豁免措施还需获得欧盟委员会批准。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -165,7 +165,7 @@ window.REAL_NEWS_DATA = [
     "title": "霍尔木兹海峡危机期间原油市场格局转变",
     "content": "近日，牛津能源研究所研究了美伊冲突及海峡中断期间，布伦特原油及 WTI 原油持仓结构变化。结果显示，生产商、贸易商、加工商和用户（PMPU）方面，布伦特原油的 PMPU 持仓显著转为空头；WTI 原油的 PMPU 持仓持续保持异常多头，该现象可能与 2026 年美国战略石油储备释放机制有关。金融交易者方面，商品交易顾问等趋势跟踪交易向布伦特原油集中，主观交易资金在石油板块内部轮动。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -175,7 +175,7 @@ window.REAL_NEWS_DATA = [
     "title": "FSB 提出八项金融监管现代化原则",
     "content": "10 月 14 日，金融稳定理事会（FSB）发布《监管与监督现代化原则》报告，旨在提升金融监管的有效性、效率和前瞻性。报告提出八项原则：持续评估和优化监管框架；根据金融机构规模、复杂程度及风险特征实施差异化监管；聚焦重大金融风险；提高监管效率，合理运用监管科技；完善前瞻性监管规则；加强监管机构间协调；提高政策透明度，健全监管影响评估机制；优化监管数据报送和信息披露要求。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -185,7 +185,7 @@ window.REAL_NEWS_DATA = [
     "title": "IOSCO 与 CPMI 联合发布金融市场基础设施一般业务风险管理最终报告",
     "content": "近日，国际证监会组织（IOSCO）与旗下支付和市场基础设施委员会（CPMI）联合发布完善金融市场基础设施一般业务风险及损失管理指引，重点提出三方面要求：健全风险识别、监测和管理机制，评估潜在损失规模及发生时间；明确机构应持有充足、可用于权益支持的流动净资产，其规模最低不得低于六个月的运营费用；强化董事会风险管理职责，提高信息披露透明度。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:42.859465+00:00"
   },
@@ -195,7 +195,7 @@ window.REAL_NEWS_DATA = [
     "title": "美国参议院两党议员提出关键矿产供应链法案",
     "content": "近日，美国民主党和共和党参议员联合提出《国家关键矿产委员会法案》，拟设立国家关键矿产委员会，负责制定和实施关键矿产国家战略，加强美国国内及海外关键矿产供应链建设。法案指出，关键矿产广泛应用于汽车、智能手机和国防系统等领域，但中国在全球关键矿产市场占据主导地位，美国有 16 种关键矿产完全依赖进口。美国应提高关键矿产供应链的安全性和可靠性，降低对中国关键矿产供应的依赖。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -205,7 +205,7 @@ window.REAL_NEWS_DATA = [
     "title": "SEC 批准 KPI 二元期权上市",
     "content": "10 月 13 日，美国证券交易委员会（SEC）批准 Cboe 旗下证券交易所上市以企业关键绩效指标（KPI）为标的的二元期权。相关合约采用现金结算、欧式行权形式，遵循 Cboe 旗下证券交易所现有的期权交易规则，并受到美国证券法律规定的投资者保护机制约束。SEC 强调，此次批准仅适用于上述特定二元期权合约，不影响美国商品期货交易委员会对其管辖范围内相关合约的监管权限。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-15",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -215,7 +215,7 @@ window.REAL_NEWS_DATA = [
     "title": "金融时报：矿业竞争加剧硫磺供应短缺，全球食品通胀风险上升",
     "content": "硫磺可被转化为硫酸，用于生产铜和磷肥。伊朗战争导致全球约一半硫磺海运供应受阻，硫磺价格一度升至每吨 1000 美元，约为战前的 10 倍。矿业企业凭借较强的成本承受能力优先获得货源，化肥企业被迫减产。而若供应中断持续，全球农作物产量或受影响，进而推升食品价格。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-14",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -225,7 +225,7 @@ window.REAL_NEWS_DATA = [
     "title": "机构关注超强厄尔尼诺影响",
     "content": "财通证券认为，综合气候变化与地缘冲突影响，棕榈油、玉米、原油值得关注。华尔街见闻认为，当前商品市场对厄尔尼诺定价分化，糖价已较充分反映减产预期，玉米、铜及航运定价相对充分，棕榈油、动力煤及食品通胀仍有再定价空间。2026 年四季度至 2027 年一季度，需关注厄尔尼诺影响滞后显现、地缘局势演变及航运瓶颈的叠加效应。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-14",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -235,7 +235,7 @@ window.REAL_NEWS_DATA = [
     "title": "亚洲动力煤价格升至两年高位",
     "content": "近日，受冬季备货需求增加及主要产煤国供应受限影响，亚洲动力煤价格持续上涨，洲际交易所纽卡斯尔动力煤期货年内涨幅超 40%，创 2024 年 8 月以来新高。需求方面，伊朗冲突推高油气价格，促使亚洲买家转向煤炭，叠加冬季备货需求，进一步推高煤炭消费。供应方面，中国煤矿安全检查限制产量恢复，印尼生产配额限制及干旱天气影响煤炭生产和运输。国际能源署预计，今年全球煤炭消费量将增长 1.2%，创历史新高。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-14",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -245,7 +245,7 @@ window.REAL_NEWS_DATA = [
     "title": "ESAs 发布 2027 年度工作计划",
     "content": "10 月 13 日，欧洲监管机构联合委员会（ESAs）发布 2027 年度工作计划，重点涵盖数字运营韧性、投资者保护、可持续金融及跨行业风险监管等领域。具体包括加强关键信息与通信技术第三方服务提供商监管、完善网络安全风险监测与应急协调机制、强化金融集团压力测试与跨行业风险评估。同时，持续关注 AI、资产代币化等金融创新及潜在风险，加强金融科技监管协调，推动监管规则简化与监管标准统一，提升欧盟金融体系韧性。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-14",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -255,7 +255,7 @@ window.REAL_NEWS_DATA = [
     "title": "CFTC 被曝干预原油期货异常交易调查",
     "content": "据彭博社近日报道，2026 年 3 月 23 日、4 月 7 日和 4 月 17 日，美伊双方发布重大局势变化消息前，美国原油期货市场均出现大规模异常交易，引发内幕交易质疑。美国商品期货交易委员会（CFTC）市场监督部随即对此展开调查，并向执法部提交调查移交报告。然而，CFTC 主席的一名高级顾问随后要求撤回该报告，打破了以往调查惯例，引发外界对监管独立性的质疑。目前，CFTC 执法部仍在调查相关交易，美国司法部已启动平行调查。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-14",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -265,7 +265,7 @@ window.REAL_NEWS_DATA = [
     "title": "SGX 推出国债期货流动性窗口吸引投资者",
     "content": "近日，新加坡交易所（SGX）宣布推出国债期货专属流动性窗口，以吸引欧洲和印度投资者参与亚洲债券市场。其中，面向欧洲和印度投资者的交易窗口分别为新加坡时间 17:00—18:00 和 12:30—14:30。今年以来，SGX 推出印度、印尼、泰国、马来西亚、菲律宾及日本 20 年期国债期货，但除印度相关合约外，其他品种截至 8 月底均无成交。SGX 希望通过优化集中交易时段，吸引做市商和资产管理机构参与，提升市场流动性。（新加坡办供稿）",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-14",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -275,7 +275,7 @@ window.REAL_NEWS_DATA = [
     "title": "ICE 拟上市活牛和生猪期货",
     "content": "10 月 13 日，洲际交易所（ICE）宣布计划于 2026 年 12 月 7 日上市活牛和生猪期货，与芝加哥商业交易所（CME）展开竞争。拟上市产品包括实物交割的活牛期货，以及现金结算的活牛、育肥牛和瘦肉猪期货，相关合约尚待监管审查。ICE 表示，此举旨在回应市场对多元化交易渠道和风险管理工具的需求。长期以来，CME 在美国牲畜期货市场占据主导地位，但其将部分交易系统迁移至云端的计划引发部分市场参与者对交易成本和速度的担忧。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-14",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -285,7 +285,7 @@ window.REAL_NEWS_DATA = [
     "title": "东吴证券：特朗普在中期选举中大概率失去国会两院横扫优势",
     "content": "受生活成本上升、油价高企及支持率下滑影响，共和党大概率失去众议院多数席位，参议院归属仍存不确定性。若共和党失去横扫优势，2027 年债务上限谈判或推动财政边际收紧，民主党也可能加强 AI 基础设施监管、抬升数据中心投资成本；若共和党保住两院多数，军事行动面临的国会约束或减弱，获得更多财政支持，美伊冲突长期化的风险将上升。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T06:10:41.548296+00:00"
   },
@@ -295,7 +295,7 @@ window.REAL_NEWS_DATA = [
     "title": "FSB 呼吁加强 AI 及稳定币风险监管",
     "content": "近日，金融稳定理事会（FSB）向二十国集团提交多项金融监管工作成果，重点关注 AI、全球稳定币及金融监管现代化等领域。AI 方面，FSB 发布《负责任采用 AI 的良好实践》，涵盖 AI 治理、全生命周期管理、网络风险防范及第三方服务管理等内容。稳定币方面，FSB 指出，当前各国监管规则发展不均衡，跨境监管合作机制尚不完善，未来将加强跨境风险监测与国际监管协调。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -305,7 +305,7 @@ window.REAL_NEWS_DATA = [
     "title": "美国散户交易活跃，风险偏好持续走高",
     "content": "10 月 12 日，《华尔街日报》称，尽管面临利率上升、油价高企及地缘冲突等不确定性，美国散户仍积极参与股票期权交易。近期美国个股期权日均交易名义金额达到约 7000 亿美元，接近 2021 年散户交易热潮时期水平。同时，强劲的企业盈利及人工智能投资热潮持续提振散户信心。截至 10 月 7 日当周，预计未来六个月散户占比将升至 40.3%，创 7 月中旬以来新高。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -315,7 +315,7 @@ window.REAL_NEWS_DATA = [
     "title": "ICE 原糖、咖啡及可可期货价格集体上涨",
     "content": "10 月 12 日，受厄尔尼诺引发的供应担忧影响，洲际交易所（ICE）原糖期货上涨 3%至 20.85 美分/磅，接近上周创下的 19 个月高点。巴西 9 月降雨量创纪录，预计 9 月下半月食糖产量同比下降 14%至 270 万吨，同时印度、欧盟等主要产区供应前景趋紧。此外，受不利天气及部分产区产量下降等因素影响，阿拉比卡咖啡期货上涨 1.3%至 2.906 美元/磅，伦敦可可期货上涨 0.8%至 4279 英镑/吨。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -325,7 +325,7 @@ window.REAL_NEWS_DATA = [
     "title": "CME 玉米期货成交量创新高",
     "content": "10 月 9 日，芝加哥商业交易所（CME）玉米期货单日成交达 120.64 万手，打破 2019 年 3 月创下的 112.86 万手的历史纪录。成交量激增主要受美国农业部 10 月供需报告影响。此前市场因夏季不利天气预期玉米减产，但报告显示玉米单产、总产量及期末库存均高于市场预期。今年第三季度，CME 农产品期货及期权日均成交量达 202.25 万手，同比增长 18.1%；其中玉米期货和期权日均成交量分别为 50.20 万手和 17.97 万手，同比分别增长 35.2%和 31.4%。（新加坡办供稿）",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -335,7 +335,7 @@ window.REAL_NEWS_DATA = [
     "title": "SGX 9 月石化及航运衍生品市场成交活跃",
     "content": "新加坡交易所（SGX）数据显示，9 月其衍生品总成交量同比增长 10%至 2981 万手。具体来看，石化衍生品成交量同比增长 126%至 2.3 万手，其中期货、期权同比分别增长 163%、72%；航运衍生品成交量同比增长 32%至 27.1 万手，其中期货、期权同比分别增长 29%、79%；乳制品衍生品同比增长 8%至 9.7 万手，其中期货同比增长 31% 。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -345,7 +345,7 @@ window.REAL_NEWS_DATA = [
     "title": "CME 云迁移项目取得新进展",
     "content": "10 月 12 日，芝加哥商业交易所（CME）宣布，已完成对 CME Globex 云端交易系统的初步性能测试，交易指令往返时间进一步缩短。同时，位于美国芝加哥地区的 Aurora 云数据中心及配套设施建设进度快于预期。该设施将部署谷歌云专为 CME 打造的超低延迟交易平台，预计于 2027 年中向客户开放测试，并于年底提供云计算及主机托管服务，同时将畜牧产品市场直接迁移至 Aurora 云平台。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -355,7 +355,7 @@ window.REAL_NEWS_DATA = [
     "title": "HKEX 研究延长衍生品夜盘交易时间",
     "content": "10 月 12 日，香港交易所（HKEX）行政总裁陈翊庭表示，HKEX 正积极研究延长衍生品夜盘交易时间，以进一步提升市场交易便利性。目前，HKEX 部分衍生品夜盘交易时间已覆盖至次日凌晨 3 时，今年 7 月还将日间交易与夜盘交易之间的休市时间由 45 分钟缩短至 30 分钟。此外，HKEX 表示将继续丰富衍生品供给，进一步完善衍生品市场生态。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -363,9 +363,9 @@ window.REAL_NEWS_DATA = [
     "id": 49,
     "category": "macro-insights",
     "title": "发展改革委推进全国统一大市场建设，破除大宗物流跨区域流动壁垒",
-    "content": "本网讯：围绕“发展改革委推进全国统一大市场建设，破除大宗物流跨区域流动壁垒”最新发展情况，行业各方积极落实保供稳价与风险防控举措。产业参与者灵活运用郑商所期货期权工具管理库存与采购风险，市场运行健康平稳，多维度保障产业链供应链安全韧性。",
+    "content": "本网讯：围绕“发展改革委推进全国统一大市场建设，破除大宗物流跨区域流动壁垒”最新发展情况，行业各方积极落实保供稳价与风险防控举措。产业参与者灵活运用交易所期货期权工具管理库存与采购风险，市场运行健康平稳，多维度保障产业链供应链安全韧性。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn/cn/jysdt/H7701index_1.htm",
+    "source_url": "https://news.sun-tech.dev/cn/jysdt/H7701index_1.htm",
     "publish_date": "2026-10-13",
     "created_at": "2026-10-16T05:45:18.611842+00:00"
   },
@@ -375,7 +375,7 @@ window.REAL_NEWS_DATA = [
     "title": "高盛指出，能源价格或成为影响美国中期选举的重要变量",
     "content": "伊朗战争及飓风推高汽油价格，民主党通用选票领先优势由约 5 个百分点扩大至近 9 个百分点，两条曲线走势高度吻合。预测市场显示，民主党横扫参众两院的概率升至 65%。美银警告，若民主党横扫两院，美股或下跌超 10%，美元走弱、债券收益率下行。但历史规律显示，挑战党横扫概率通常在选前回落，选情仍存不确定性。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-12",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -385,7 +385,7 @@ window.REAL_NEWS_DATA = [
     "title": "华泰证券：中欧贸易磋商取得积极进展",
     "content": "中欧第二轮贸易投资磋商形成 16 项成果共识，涵盖贸易平衡、出口管制、知识产权及世贸组织改革等领域，全面贸易冲突升级风险有所下降。汽车贸易方面达成谅解，但混动及插混汽车出口调控细则仍待明确；稀土出口许可、半导体贸易问题亦取得进展；中方将下调部分欧盟产品关税。总体来看，中欧通过协商缓和短期摩擦，但结构性矛盾仍存，短期关注 10 月 15—16 日欧盟峰会动向。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-12",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -395,7 +395,7 @@ window.REAL_NEWS_DATA = [
     "title": "俄乌冲突扰乱葵花籽油出口，印度加大棕榈油采购",
     "content": "近日，据路透社报道，受黑海港口遇袭影响，俄罗斯一批 2 万吨葵花籽油出口印度订单被取消，另有约 6 万吨货物交付延迟。由于黑海运输受阻，俄罗斯出口商正转向波罗的海港口发货，但运输时间将增加约 10 天。受此影响，印度 10 月葵花籽油进口量可能由正常需求的 25 万吨降至 16 万吨。为弥补供应缺口，印度近日集中采购了 15 万吨毛棕榈油。市场预计，印度采购需求增加或对马来西亚棕榈油期货价格形成支撑。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-12",
     "created_at": "2026-10-16T06:10:40.21532+00:00"
   },
@@ -405,7 +405,7 @@ window.REAL_NEWS_DATA = [
     "title": "亚洲金融科技行业呼吁明确预测市场监管规则",
     "content": "近日，在中国香港举行的亚洲国际外汇博览会上，多家金融科技企业高管呼吁亚洲监管机构明确预测市场的法律属性及监管要求。与会人士认为，预测市场具有金融衍生品特征，交易门槛相对较低，有望吸引更多机构投资者和年轻群体参与。目前，中国香港及亚洲其他地区对预测市场应归类为金融产品还是博彩活动仍存在争议，监管不确定性制约行业发展。与会人士预计，未来五年亚洲预测市场监管框架有望逐步建立。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-12",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -415,7 +415,7 @@ window.REAL_NEWS_DATA = [
     "title": "CFTC 进一步明确事件合约与传统博彩的监管边界",
     "content": "近日，美国商品期货交易委员会（CFTC）发布两项规则，明确将符合条件的体育博彩、赌场游戏等传统博彩产品排除在互换定义之外，同时拟将体育、政治、文化和天气等事件合约明确纳入互换定义范围。CFTC 指出，事件合约通常采用市场化定价、多边交易和中央清算机制，与传统博彩产品存在明显差异。两项规则旨在明确联邦衍生品监管与州及部落博彩监管的权限边界，减少监管不确定性。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-12",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -425,7 +425,7 @@ window.REAL_NEWS_DATA = [
     "title": "EEX 9 月能源及航运衍生品成交活跃",
     "content": "欧洲能源交易所（EEX）数据显示，9 月其部分电力、天然气及航运衍生品成交量增长明显。电力方面，法国、奥地利、北欧和爱尔兰电力期货成交量同比分别增长 58%、77%、44%和 447%，日本电力期货成交量同比增长 99%；天然气方面，比利时、意大利和波罗的海—芬兰天然气期货成交量同比分别增长 143%、67%和 1147%；航运方面，航运衍生品成交量同比增长 4%，其中干散货航运市场期货成交量同比增长 9%。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-12",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -435,7 +435,7 @@ window.REAL_NEWS_DATA = [
     "title": "金融时报：美国关键矿产储备计划引发国防工业担忧",
     "content": "美国进出口银行推出规模达 120 亿美元的“金库计划”，拟建立关键矿产战略储备；美国还将手 2027 年 1 月起限制国防企业采购中国稀土磁体。美国航空航天工业协会对此表示担忧，指出钨、稀土等材料供应紧张，政府集中采购可能与企业争夺资源，推高价格并加剧市场波动；此外，非中国供应商产能有限、替代认证周期较长，行业短期内难以全面合规，仍需建立豁免机制。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-09",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -445,7 +445,7 @@ window.REAL_NEWS_DATA = [
     "title": "金融时报：原油期货已难以准确反映实物供需和燃料通胀压力",
     "content": "受中东冲突、霍尔木兹海峡运输受阻及运费飙升影响，全球原油库存大幅下降，现货与期货价差显著扩大。与此同时，全球炼油产能紧张、俄罗斯炼油设施遭袭及中东炼厂停产，推动汽油、柴油和航空煤油价格维持高位。原油期货价格受到政策信号和算法交易压制，与实际燃料成本日益脱节，成品油已成为判断能源通胀的关键指标。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-09",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -455,7 +455,7 @@ window.REAL_NEWS_DATA = [
     "title": "MAS 发布《AI 风险管理指引》",
     "content": "近日，新加坡金融管理局（MAS）发布《AI 风险管理指引》，旨在支持新加坡金融业负责任地采用 AI 技术。该指引主要包括四方面内容：强化董事会和高级管理层对 AI 风险的监督；加强 AI 全生命周期风险管理，完善数据治理、测试验证、人工监督及网络安全等措施；加强第三方 AI 服务风险管理；根据 AI 应用规模及风险程度实施差异化管理。据悉，该指引将于 2027 年 10 月 7 日起分阶段实施。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-09",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -465,7 +465,7 @@ window.REAL_NEWS_DATA = [
     "title": "NFL 敦促美国最高法院允许各州监管预测市场",
     "content": "10 月 8 日，美国职业橄榄球大联盟（NFL）向美国最高法院提交法律意见书，敦促法院回应新泽西州监管机构与预测市场平台 Kalshi 的法律争议，允许各州对预测市场实施监管。NFL 认为，当前联邦监管措施不足，可能引发内幕交易并损害比赛公正性。此外，美国商品期货交易委员会及相关平台尚未落实禁止特定类型投注、设置 21 周岁最低参与年龄等风险防范措施。目前，美国最高法院尚未决定是否受理该案。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-09",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -475,7 +475,7 @@ window.REAL_NEWS_DATA = [
     "title": "中国债券成为全球借款人的低成本融资渠道",
     "content": "近日，据彭博社报道，受中外融资成本差异及人民币国际化政策推动，境外机构加快进入中国债券市场。今年以来，中国监管机构已批准超过 40%的熊猫债募集资金汇出境外，最高达 1300 亿元，均创历史新高。截至 10 月 8 日，境外发行人年内通过熊猫债融资 1155 亿元，为去年全年的两倍，市场占比由三年前的 13%升至 47%。此外，境外人民币债券发行规模已达 1 万亿元，超过去年全年水平，人民币正逐步成为国际融资的重要选择。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-09",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -485,7 +485,7 @@ window.REAL_NEWS_DATA = [
     "title": "地缘政治言论对国际油价的影响减弱",
     "content": "10 月 8 日，据彭博社报道，随着美以伊冲突持续，特朗普相关言论对国际油价的影响逐渐减弱。4 月 1 日，特朗普发布将扩大对伊打击的言论后，国际油价上涨逾 7%，而 10 月 1 日类似表态几乎未引发油价波动。市场交易员逐渐将关注重点转向原油实际供应和货物流向等基本面指标。同时，受美国军事战略不确定性影响，交易员普遍缩小交易头寸，市场流动性有所下降。目前，布伦特原油期货持仓量已降至 2025 年 3 月以来最低水平。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-09",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -495,7 +495,7 @@ window.REAL_NEWS_DATA = [
     "title": "印度尿素进口报价下降近 10%",
     "content": "近日，据彭博社报道，印度在最新一轮尿素进口招标中获得的最低报价较今年 8 月采购价格下降近 10%。此次招标计划采购 170 万吨尿素，印度西海岸报价为每吨 356.25 美元至 416.50 美元，东海岸报价为每吨 352.10 美元至 465 美元，投标总量均超过采购需求的两倍。今年以来，受中东冲突影响，印度尿素进口价格一度升至每吨 959 美元。随着供应限制缓解及全球需求减弱，尿素价格明显回落。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-09",
     "created_at": "2026-10-16T06:10:38.932027+00:00"
   },
@@ -505,7 +505,7 @@ window.REAL_NEWS_DATA = [
     "title": "CME 拟推出棒球期货",
     "content": "10 月 8 日，芝加哥商业交易所（CME）宣布，计划于 10 月 12 日推出全球首批棒球期货合约，目前尚待监管审查。新合约以 CME FutureSports 表现指数为标的，该指数基于美国职业棒球大联盟 30 支球队的官方比赛统计数据，量化反映球队表现，首批合约将覆盖 2026 年季后赛联盟冠军系列赛的 4 支球队。合约分为标准和微型两种规格，合约价值分别为标的指数数值的 10 倍和 0.1 倍，支持全天候交易。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-09",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -515,7 +515,7 @@ window.REAL_NEWS_DATA = [
     "title": "机构国庆回顾：三条主线",
     "content": "一是中东局势延续动荡，俄乌互相攻击能源设施，布伦特原油在 100 美元/桶附近形成脆弱平衡，G7 宣布联合释放战略储备；二是法国财政风险攀升，叠加美国名义增长势头不弱，发达国家长债收益率高位上行；三是美元在欧日货币走弱的推动下走强，强美元与高利率压制市场宽度，AI 产业链相对坚挺。商品方面，原油走弱、基本金属分化且铜强于铝，黄金偏弱、糖等软商品走强。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-08",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -525,7 +525,7 @@ window.REAL_NEWS_DATA = [
     "title": "CFTC 拟出台加密资产市场监管新规",
     "content": "10 月 5 日，美国商品期货交易委员会（CFTC）主席表示，CFTC 正推进制定《加密资产交易监管规则》和《加密资产市场监管规则》，并公开征求意见。新规拟针对加密资产保证金、杠杆及融资交易建立专门监管框架，增设加密资产市场这一指定合约市场注册子类别，为相关交易平台提供新的合规注册路径。同时，拟完善市场操纵防范、客户资产隔离及储备证明等监管要求，以强化市场透明度和投资者保护。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-08",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -535,7 +535,7 @@ window.REAL_NEWS_DATA = [
     "title": "Cboe 拟推出企业 KPI 二元期权",
     "content": "近日，芝加哥期权交易所（Cboe）宣布，计划于 2026 年 10 月推出与上市公司关键绩效指标（KPI）挂钩的二元期权，首批覆盖 23 家美国上市公司，支持投资者围绕特定企业经营指标和业绩事件开展交易。相关产品将在 Cboe 旗下受美国证券交易委员会监管的证券交易所上市，由零售经纪商 Robinhood 率先向客户提供。Cboe 表示，新合约旨在为投资者提供针对企业 KPI 的风险敞口，帮助其更加精准地围绕季度业绩指标开展交易。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-08",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -545,7 +545,7 @@ window.REAL_NEWS_DATA = [
     "title": "CME 撤回全天候原油期货上市计划，Kalshi 申请推出长期限原油期货",
     "content": "近日，芝加哥商业交易所（CME）宣布，鉴于行业参与者担忧能源衍生品全天候交易可能增加市场风险，决定撤回全天候交易的 10 桶原油期货合约上市申请。10 月 7 日，美国预测市场平台 Kalshi 向美国商品期货交易委员会申请推出挂钩 WTI 原油价格的长期限期货合约。该合约借鉴永续期货设计思路，拟采用每周 5 天、每天 24 小时交易机制，每 10 年到期一次，旨在降低移仓成本及交割风险。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-08",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -555,7 +555,7 @@ window.REAL_NEWS_DATA = [
     "title": "ICE 推出超大型油轮远期运费协议期货和集装箱运价指数期权",
     "content": "近日，洲际交易所（ICE）宣布推出 TD34（阿曼湾至中国）和 TD15（西非至中国）航线的超大型油轮远期运费协议期货，采用现金结算，以波罗的海交易所发布的运费评估价格为结算依据，旨在帮助市场参与者对冲相关航线的运价波动风险。同时，ICE 还推出 FAN（亚洲至北欧）和 FAW（亚洲至美国西海岸）集装箱平均运价指数期权，挂钩纽约航运交易所的运价指数，进一步丰富运价风险管理工具。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-08",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -565,7 +565,7 @@ window.REAL_NEWS_DATA = [
     "title": "CME、ICE 和 LME 第三季度成交量持续增长",
     "content": "数据显示，芝加哥商业交易所（CME）2026 年第三季度衍生品日均成交量（ADV）同比增长 16%，其中能源、农产品和金属 ADV 同比分别增长 16%、18%和 13%。洲际交易所（ICE）2026 年第三季度衍生品 ADV 同比增长 31%，其中能源 ADV 同比增长 18%，农产品和金属合计 ADV 同比增长 57%。伦敦金属交易所（LME）2026 年第三季度衍生品 ADV 同比增长 12%，其中锌和铅 ADV 同比分别增长 30%和 24%。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-10-08",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -575,7 +575,7 @@ window.REAL_NEWS_DATA = [
     "title": "机构解读近日政策措施",
     "content": "9 月 29 日央行与财政部推出定向财政+货币宽松组合，直接跟进 9 月 28 日国常会“加强逆周期调节”的部署。政策包括首次购房按揭贴息、下调 PSL 利率 25BP、提高科技创新与设备更新再贷款额度等。中金、银河证券、中信证券等机构认为，本次房贷贴息措施可视为主体金融协同支持居民消费、稳房市的进一步延伸，利率政策指向更集中，稳增长政策正在加力，未来仍有增量工具可期。高盛认为，政策措施对稳增长的信号价值高于对增长的即期拉动。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-30",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -585,7 +585,7 @@ window.REAL_NEWS_DATA = [
     "title": "Nasdaq 推出资本市场平台 AI 智能体环境",
     "content": "9 月 29 日，Nasdaq 宣布为其资本市场平台 Nasdaq Calypso 推出 AI 智能体运行环境，旨在推动金融机构对 AI 智能体的规模化应用。该环境基于模型上下文协议构建，使金融机构能够在安全受控的全生命周期内运行、连接和扩展 AI 智能体，直接调用平台的交易、风险与抵押品等核心数据。此外，Nasdaq 计划推出首个自然语言助手和一系列具备合规管控的自动化智能体工作流，帮助用户提升数据分析与业务决策效率。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-30",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -595,7 +595,7 @@ window.REAL_NEWS_DATA = [
     "title": "Coinbase 获 CFTC 批准设立衍生品清算机构",
     "content": "9 月 28 日，美国数字货币交易平台 Coinbase 获得美国商品期货交易委员会（CFTC）正式批准，设立衍生品清算机构 Coinbase Clearing。作为首个以稳定币 USDC 结算的清算所，该机构补齐了 Coinbase 在 CFTC 监管体系下的全套衍生品基础设施。结合此前已拥有的期货经纪商和指定合约市场牌照，Coinbase 现已具备直接向市场推出合规衍生品的全流程能力，并支持通过 USDC 实现“24×7”全天候即时结算。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-30",
     "created_at": "2026-10-16T06:10:37.777885+00:00"
   },
@@ -605,7 +605,7 @@ window.REAL_NEWS_DATA = [
     "title": "对冲投研：宏观周期与商品轮动",
     "content": "商品板块的经典轮动顺序大致为“黄金→白银→工业金属→能源→农产品”，其背后是宏观周期不同阶段需求结构和资金偏好的规律性变化。但 2026 年的特殊性在于，新能源和 AI 革命催生了新的需求主线，新轮动链条沿着“黄金→新能源金属（铜/银/锂）→电力基础设施（铝/锌）→战略小金属（钨/锡/钴）”展开，地缘政治则成为加速轮动的“催化剂”。传统轮动路径正在被重构，“K 型分化”使得新旧经济相关品种的表现冰火两重天。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-29",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -615,7 +615,7 @@ window.REAL_NEWS_DATA = [
     "title": "代币化抵押品助力衍生品全天候交易",
     "content": "近日，国际掉期与衍生品工具协会（ISDA）首席执行官 Scott O'Malia 发文称，ISDA 重点推进了代币化衍生品与全天候交易。Scott O'Malia 表示，代币化抵押品可实现保证金不间断划转，助力全天候交易实现近乎即时结算，降低交易对手风险，提高抵押品周转效率，但托管、跨境法律认定等问题亟待解决。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-29",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -625,7 +625,7 @@ window.REAL_NEWS_DATA = [
     "title": "ICE 推出多类衍生品",
     "content": "9 月 28 日，洲际交易所（ICE）推出三类能源衍生品，进一步丰富油气电力产品体系，包括 JKM 亚洲液化天然气（LNG）期权、LNG 船运价 BALMO 期货和英国基础电力期权。其中，JKM LNG 期权聚焦亚洲时点价格风险；LNG 船运价 BALMO 期货挂钩评估机构 Spark Commodities 价格，英国基础电力期权旨在应对新能源与燃气发电引发的电价大幅波动。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-29",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -635,7 +635,7 @@ window.REAL_NEWS_DATA = [
     "title": "JPX 新增日内衍生品数据服务",
     "content": "9 月 28 日，日本交易所集团（JPX）升级了机构数据服务 J-Quants Pro，新增期货、期权日内行情。借助该平台，衍生品数据可回溯至 2008 年 5 月，区分日盘、夜盘，附带隐含波动率等指标。该服务面向机构客户，可按月订购数据集，有助于机构开展量化回测与跨时段价格分析。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-29",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -645,7 +645,7 @@ window.REAL_NEWS_DATA = [
     "title": "EEX 推出天然气日度期货",
     "content": "欧洲能源交易所（EEX）9 月 28 日宣布，将于 2026 年 11 月 23 日推出实物交割的天然气日度期货，覆盖荷兰 TTF、德国 THE、奥地利 CEGH VTP、法国 PEG 四大核心欧洲天然气枢纽。EEX 首席商务官 Steffen Köhler 表示，新合约补齐短期品种，完善了从日度到多年期的完整天然气衍生品产品线，有利于精细化管理风险。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-29",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -655,7 +655,7 @@ window.REAL_NEWS_DATA = [
     "title": "华尔街见闻：美债收益率曲线逼近倒挂",
     "content": "上周 10 年期与 2 年期美债收益率之差收窄至最低 17 个基点，为 2025 年初以来最小利差，收益率曲线加速平坦化，倒挂风险上升。收益率曲线倒挂被视为债券市场对美联储加息过度、经济前景趋弱的集体表态，在 1960 年代以来的每一次衰退前都曾出现。尽管近年来该指标预测效力愈发受到质疑，但利差收窄直接压缩银行净息差，收益率曲线平坦化甚至倒挂将对处于历史高位附近的美国股市及银行板块产生广泛冲击。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-28",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -665,7 +665,7 @@ window.REAL_NEWS_DATA = [
     "title": "网络风险正演变为市场风险",
     "content": "国际期货业协会（FIA）近日指出，衍生品市场网络风险已从技术风险演变为系统性市场风险。2023 年 ION Markets 网络攻击案表明，第三方技术服务商的供应链漏洞可引发全市场冲击，AI 技术大幅提升了网络攻击的欺诈性与渗透速度，全天候交易将压缩系统维护窗口。FIA 建议行业强化供应商压力测试、完善应急预案，推动交易所、清算机构与服务商协同以增强运营韧性。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-28",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -675,7 +675,7 @@ window.REAL_NEWS_DATA = [
     "title": "SEBI 向 FPIs 开放商品衍生品交易",
     "content": "9 月 24 日，印度证券交易委员会（SEBI）批准新规，允许外国组合投资者（FPIs）参与非农业指数衍生品和实物交割的非农业大宗商品衍生品交易。此外，SEBI 设立 T-3 退出风险保护机制，即外资必须在合约到期前 3 个交易日（T-3）平仓，T-3 日后不得新开仓或加仓。若未主动平仓，持仓将转交给交易清算会员处理。该机制旨在避免外资承担实物交割责任，提升印度大宗商品市场流动性。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-28",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -685,7 +685,7 @@ window.REAL_NEWS_DATA = [
     "title": "Architect 与 Apex 签署谅解备忘录",
     "content": "近日，美国新兴交易所 Architect 与金融基础设施服务商 Apex 签署谅解备忘录，拟将其期货、期权、永续期货接入 Apex 经纪网络。Architect 依托 Apex 200 余家合作经纪商，向平台超 4200 万终端投资者开放交易。据悉，Architect 于 2026 年 5 月收购场内衍生品交易所 IMX Health 后，聚焦 GPU 算力、电力、关键矿产等 AI 供应链衍生品。Architect 表示，分销是新兴衍生品市场规模化核心难题，此次合作将便利经纪商获取 AI 产业链创新产品。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-28",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -695,7 +695,7 @@ window.REAL_NEWS_DATA = [
     "title": "Public 与 Kalshi 将人工智能交易代理引入预测市场",
     "content": "近日，美国投资平台 Public 与预测市场 Kalshi 联合推出 AI 交易代理工具。用户拟定交易策略后，AI 可将其转化为标准化交易规则，针对美联储政策、监管审批等事件合约推送行情预警或自动执行交易，所有策略均需用户审核确认。Kalshi 负责提供事件合约并处理交易，产品在 Public 平台面向用户开放。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-28",
     "created_at": "2026-10-16T06:10:36.446554+00:00"
   },
@@ -705,7 +705,7 @@ window.REAL_NEWS_DATA = [
     "title": "HKEX 扩大衍生品市场抵押品范围",
     "content": "香港交易所（HKEX）9 月 25 日宣布，拟于今年 11 月起接受通过债券通持有的中国国债、政策性金融债及财政部境外发行债券作为保证金抵押品，相关安排待监管批准。HKEX 表示，此举与该交易所推动人民币国际化以及巩固香港作为领先离岸人民币枢纽的策略目标相一致，有助于增强客户抵押品管理的灵活性，促进资产多元化，提升资本使用效率。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-28",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -715,7 +715,7 @@ window.REAL_NEWS_DATA = [
     "title": "金联创：中美元首峰对全球石油市场影响前瞻",
     "content": "本次中美元首会晤正值全球石油市场供应体系脆弱性显著上升之际，或将产生深远影响。一方面，预计会晤将进一步稳定中美关系，对缓和美伊冲突、降低能源地缘政治风险、促进俄乌等国际问题沟通解决具有正面意义。另一方面，中美能源领域互补性强，若中国借助此次会晤增加从美进口原油、LNG 等能源品，可能重塑全球贸易流向。整体看，会晤核心意义不止于两国能否达成能源贸易协议，更在于能否推动构建更稳定、可持续的全球能源供给体系，这将对全球石油市场产生更深远影响。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-24",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -725,7 +725,7 @@ window.REAL_NEWS_DATA = [
     "title": "FIA 发布算力期货相关报告",
     "content": "9 月 23 日，国际期货业协会（FIA）发布算力期货报告。报告指出，随着人工智能产业规模扩张，GPU 算力租赁价格波动加剧，多家交易所计划推出现金交割的算力期货，但算力市场仍面临多重挑战，如 GPU 型号与地域差异引发的基差风险、基准指数的可靠性存疑、市场流动性不足以及硬件迭代造成旧算力快速贬值等问题，算力期货仍处于早期发展阶段。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-24",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -735,7 +735,7 @@ window.REAL_NEWS_DATA = [
     "title": "衍生品市场 AI 应用迈入规范化阶段",
     "content": "9 月 23 日，英国市场研究机构 Acuiti 发布 2026 年第三季度衍生品管理洞察报告。报告显示，衍生品行业人工智能（AI）应用已告别试验阶段，进入受管控的规范化时期。绝大多数公司都已建立关于员工使用 AI 的正式框架，且 44%的企业实现可量化的时间与成本缩减。不同机构 AI 治理模式存在差异，如银行管控严格，而自营交易机构监管则相对宽松。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-24",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -745,7 +745,7 @@ window.REAL_NEWS_DATA = [
     "title": "FT 中文网：关注日元套息交易的风险",
     "content": "套息交易，是指近年来全球市场参与者利用利率差异，借入价格低廉且稳定的日元，用以投资全球其他高收益资产，目前规模可能远超 2 万亿美元，为近 30 年来最高。随着日央行开启加息推动货币政策正常化，市场对套息交易风险的关注有所升温：一方面，日本正在走出通缩，若日央行快速大幅加息，套息交易投资者可能被迫抛售资产，无序平仓或引发全球金融市场陷入剧烈动荡。另一方面，美日利差依然显著、日本经济结构性弱点仍存，日元暂不具备趋势性走强基础，套息交易短期内或较难逆转。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-23",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -755,7 +755,7 @@ window.REAL_NEWS_DATA = [
     "title": "国金证券：也门问题是当前核心",
     "content": "美国中选在即，高油价已成为共和党命门。当前曼德海峡对油价的边际影响更大，且也门问题相较于美伊冲突更加复杂难解。特朗普若选择武力介入，短期就会面临油价飙升风险，且一旦胡塞武装陷入被动，还会威胁加强对曼德海峡的封锁，届时将对亚欧航运和全球供应链造成更广泛影响；如果选择谈判，为了在中选前抑制油价，特朗普可能会虚构良好的谈判前景，但实际上仍面临曼德海峡控制权、也门领土控制权及沙特国家安全等棘手问题。本轮中东动荡在中选之前恐难以结束。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-23",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -765,7 +765,7 @@ window.REAL_NEWS_DATA = [
     "title": "CFTC 发布监管指引规范“提及类”事件合约上市交易",
     "content": "9 月 22 日，美国商品期货交易委员会（CFTC）发布监管指引，明确“提及类”事件合约的上市要求，为场内交易平台申报产品提供标准。据悉，此类合约以特定个人是否提及某些词语、出席或现身某项活动，以及与他人发生互动等行为作为结算依据。CFTC 指出，这类行为难以客观核验，存在较高操纵风险。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-23",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -775,7 +775,7 @@ window.REAL_NEWS_DATA = [
     "title": "CME 将推出 BCH 现金和 UNI 期货",
     "content": "9 月 22 日，芝加哥商业交易所（CME）宣布计划于 10 月 19 日推出比特币现金（BCH）和 Uniswap（UNI）期货，旨在满足机构投资者对高流动性加密资产的交易需求。两类产品均设置标准和微型合约，其中 BCH 合约规模分别为 250 枚和 25 枚，UNI 分别为 1 万枚和 1000 枚。2026 年上半年，CME 加密货币期货及期权日均成交 27.98 万手，名义价值 83 亿美元；日均持仓 26.46 万手，名义价值 154 亿美元。（新加坡办供稿）",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-23",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -785,7 +785,7 @@ window.REAL_NEWS_DATA = [
     "title": "EGX 与 LSEG 深化合作以吸引海外资本",
     "content": "9 月 21 日，埃及交易所（EGX）联合伦敦证券交易所集团（LSEG）在开罗举办圆桌会议。会议围绕融资需求、流动性分配、上市筹备、非传统融资渠道、跨境监管改革五大专题展开讨论，强调了 EGX 与 LSEG 之间长期协作与双边工作的重要性。EGX 执行主席 Omar Radwan 表示，深化两地市场互联互通，有助于本土企业吸引海外资本，推动埃及经济增长。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-23",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   },
@@ -795,7 +795,7 @@ window.REAL_NEWS_DATA = [
     "title": "GPU 算力期货上市受阻",
     "content": "芝加哥商业交易所原计划于 10 月初推出 GPU 算力期货合约，但该产品或无法按期获得监管批准。市场消息显示，美国商品期货交易委员会（CFTC）将延长审查周期，深入研判此类合约运作机制，并广泛征求行业意见。CFTC 指出，虽然算力金融市场有望助力美国 AI 发展，但底层算力市场分散且仍不透明。",
     "display_priority": 0,
-    "source_url": "http://www.czce.com.cn",
+    "source_url": "https://news.sun-tech.dev",
     "publish_date": "2026-09-23",
     "created_at": "2026-10-16T06:10:35.17282+00:00"
   }

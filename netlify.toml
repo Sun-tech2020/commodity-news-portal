@@ -1,0 +1,24 @@
+# Netlify 生产部署配置文件
+[build]
+  publish = "."
+
+# 默认首页重定向规范化
+[[redirects]]
+  from = "/"
+  to = "/code.html"
+  status = 200
+
+# 运维后台快捷路由
+[[redirects]]
+  from = "/admin"
+  to = "/admin.html"
+  status = 200
+
+# 安全请求头
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

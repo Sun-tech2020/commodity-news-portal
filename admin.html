@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>运维采编控制台 · 郑商所·研究所 · 大宗商品新闻网</title>
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Chivo:wght@600;700&amp;family=JetBrains+Mono:wght@500;600&amp;family=Public+Sans:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+  <style>
+    @layer base {
+      html, body {
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+      }
+    }
+  </style>
+  <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+</head>
+<body class="bg-[#F8F9FF] text-[#0D1D2C] min-h-screen antialiased flex flex-col">
+
+  <!-- 顶部导航栏 -->
+  <header class="bg-white border-b border-[#E4EFFF] sticky top-0 z-40 shadow-xs">
+    <div class="max-w-[1440px] mx-auto px-6 h-16 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <a href="code.html" class="flex items-center gap-2 hover:opacity-90 transition-opacity">
+          <div class="w-8 h-8 rounded-lg bg-[#004098] flex items-center justify-center text-white font-bold text-sm">
+            ZCE
+          </div>
+          <span class="font-bold text-lg text-[#004098] tracking-tight">郑商所·研究所 新闻发布控制台</span>
+        </a>
+        <span class="text-xs px-2 py-0.5 rounded bg-[#EBF3FC] text-[#004098] font-semibold border border-[#ABC7FC]/50">
+          Supabase 云端直连
+        </span>
+      </div>
+
+      <div class="flex items-center gap-4 text-sm">
+        <span class="text-gray-500 hidden sm:inline text-xs">
+          当前服务节点：<span class="text-emerald-600 font-mono font-medium">Healthy</span>
+        </span>
+        <a href="code.html" class="px-3.5 py-1.5 rounded-md bg-[#004098] text-white font-medium hover:bg-[#003078] transition-colors flex items-center gap-1 text-xs">
+          <span>进入新闻网首页</span>
+          <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- 主体工作区 -->
+  <main class="max-w-[1440px] mx-auto px-6 py-8 flex-1 w-full grid grid-cols-1 lg:grid-cols-12 gap-8">
+    
+    <!-- 左侧：新闻录入表单 (7列) -->
+    <div class="lg:col-span-7 space-y-6">
+      <div class="bg-white rounded-xl shadow-xs border border-[#E4EFFF] p-6 sm:p-8">
+        
+        <div class="flex items-center justify-between pb-4 mb-6 border-b border-[#E4EFFF]">
+          <div>
+            <h2 class="text-xl font-bold text-[#004098]">当日新闻录入发布</h2>
+            <p class="text-xs text-gray-500 mt-1">录入后将根据设置直接同步呈现在首页或对应二级频道</p>
+          </div>
+          <div class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-ping"></div>
+        </div>
+
+        <form id="news-form" class="space-y-5">
+          
+          <!-- 所属板块 与 新闻日期 并排 -->
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div>
+              <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1.5">
+                所属板块 <span class="text-red-500">*</span>
+              </label>
+              <select id="form-category" class="w-full rounded-lg border-gray-300 text-sm focus:border-[#004098] focus:ring-[#004098]">
+                <option value="exchange-updates">交易所动态 (Exchange Updates)</option>
+                <option value="market-news">市场动态 (Market News)</option>
+                <option value="regulatory-updates">监管动态 (Regulatory Updates)</option>
+                <option value="macro-insights">宏观市场动态 (Macro Dynamics)</option>
+              </select>
+            </div>
+
+            <div>
+              <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1.5">
+                新闻发布日期 <span class="text-red-500">*</span>
+              </label>
+              <input type="date" id="form-date" class="w-full rounded-lg border-gray-300 text-sm focus:border-[#004098] focus:ring-[#004098]" required />
+              <p class="text-[11px] text-gray-400 mt-1">默认为当天日期（首页严格仅展示当日新闻）</p>
+            </div>
+          </div>
+
+          <!-- 是否重点展示 (选项 0, 1, 2) -->
+          <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-2">
+              展示优先级与排版样式 <span class="text-red-500">*</span>
+            </label>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+              <label class="priority-label flex flex-col p-3 rounded-lg border border-gray-200 cursor-pointer hover:border-[#004098] transition-all bg-white has-[:checked]:border-[#004098] has-[:checked]:bg-[#EBF3FC]/60 has-[:checked]:ring-1 has-[:checked]:ring-[#004098]">
+                <div class="flex items-center justify-between mb-1">
+                  <span class="font-bold text-sm text-gray-900">0: 普通新闻</span>
+                  <input type="radio" name="priority" value="0" checked class="text-[#004098] focus:ring-[#004098]" />
+                </div>
+                <span class="text-[11px] text-gray-500 leading-snug">排在板块重点之后，以简洁单行列表样式展示。</span>
+              </label>
+
+              <label class="priority-label flex flex-col p-3 rounded-lg border border-gray-200 cursor-pointer hover:border-[#004098] transition-all bg-white has-[:checked]:border-[#004098] has-[:checked]:bg-[#EBF3FC]/60 has-[:checked]:ring-1 has-[:checked]:ring-[#004098]">
+                <div class="flex items-center justify-between mb-1">
+                  <span class="font-bold text-sm text-[#004098]">1: 板块重点展示</span>
+                  <input type="radio" name="priority" value="1" class="text-[#004098] focus:ring-[#004098]" />
+                </div>
+                <span class="text-[11px] text-gray-500 leading-snug">置顶于所属板块最前，呈深蓝竖条高亮卡片样式（可多个）。</span>
+              </label>
+
+              <label class="priority-label flex flex-col p-3 rounded-lg border border-gray-200 cursor-pointer hover:border-[#004098] transition-all bg-white has-[:checked]:border-[#004098] has-[:checked]:bg-[#EBF3FC]/60 has-[:checked]:ring-1 has-[:checked]:ring-[#004098]">
+                <div class="flex items-center justify-between mb-1">
+                  <span class="font-bold text-sm text-amber-600">2: 今日头条要闻</span>
+                  <input type="radio" name="priority" value="2" class="text-[#004098] focus:ring-[#004098]" />
+                </div>
+                <span class="text-[11px] text-gray-500 leading-snug">直接置顶于首页焦点要闻区域展示。</span>
+              </label>
+            </div>
+          </div>
+
+          <!-- 新闻标题 -->
+          <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1.5">
+              新闻大标题 <span class="text-red-500">*</span>
+            </label>
+            <input type="text" id="form-title" placeholder="请输入权威财经新闻标题（建议简洁有力）" class="w-full rounded-lg border-gray-300 text-sm focus:border-[#004098] focus:ring-[#004098]" required />
+          </div>
+
+          <!-- 新闻详细内容 -->
+          <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1.5">
+              新闻正文详细内容 <span class="text-red-500">*</span>
+            </label>
+            <textarea id="form-content" rows="6" placeholder="请输入新闻正文（几百字以内），按 Enter 换行即可自动分段..." class="w-full rounded-lg border-gray-300 text-sm leading-relaxed focus:border-[#004098] focus:ring-[#004098]" required></textarea>
+            <p class="text-[11px] text-gray-400 mt-1">正文将在前台毛玻璃弹窗中清晰分页呈现。</p>
+          </div>
+
+          <!-- 原文链接 -->
+          <div>
+            <label class="block text-xs font-bold text-gray-700 uppercase tracking-wider mb-1.5">
+              权威出处 / 原文链接 URL
+            </label>
+            <input type="url" id="form-link" value="http://www.czce.com.cn" placeholder="http://www.czce.com.cn/..." class="w-full rounded-lg border-gray-300 text-sm font-mono text-gray-700 focus:border-[#004098] focus:ring-[#004098]" />
+          </div>
+
+          <!-- 提交操作栏 -->
+          <div class="pt-4 flex items-center justify-between border-t border-[#E4EFFF]">
+            <button type="reset" class="px-4 py-2 text-xs font-semibold text-gray-500 hover:text-gray-800 transition-colors">
+              清空重置
+            </button>
+            <button type="submit" id="submit-btn" class="px-6 py-2.5 bg-[#004098] hover:bg-[#002b6b] text-white text-sm font-bold rounded-lg shadow-sm flex items-center gap-2 transition-all cursor-pointer">
+              <span>立即发布入库</span>
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+            </button>
+          </div>
+
+          <!-- 提示状态条 -->
+          <div id="status-alert" class="hidden p-3 rounded-lg text-xs font-medium"></div>
+
+        </form>
+      </div>
+    </div>
+
+    <!-- 右侧：数据库实时资讯清单 (5列) -->
+    <div class="lg:col-span-5 space-y-4">
+      <div class="bg-white rounded-xl shadow-xs border border-[#E4EFFF] p-6 flex flex-col h-full max-h-[820px]">
+        <div class="flex items-center justify-between pb-3 mb-3 border-b border-[#E4EFFF]">
+          <div>
+            <h3 class="font-bold text-base text-[#004098]">已发布新闻列表 (最新20条)</h3>
+            <p class="text-[11px] text-gray-400">实时读取自 Supabase 数据库</p>
+          </div>
+          <button id="refresh-btn" class="text-xs text-[#004098] hover:underline flex items-center gap-1">
+            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
+            刷新
+          </button>
+        </div>
+
+        <!-- 列表容器 -->
+        <div id="recent-list" class="flex-1 overflow-y-auto space-y-2.5 pr-1 divide-y divide-gray-100">
+          <div class="py-8 text-center text-gray-400 text-xs">正在连接数据库读取...</div>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- 引入 Supabase SDK & 数据服务 -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="supabase-service.js"></script>
+  <script src="news-modal.js"></script>
+
+  <script>
+    // 默认填充今天日期
+    const dateInput = document.getElementById('form-date');
+    const todayStr = window.newsDataManager.getTodayString();
+    dateInput.value = todayStr;
+
+    // 加载近期新闻列表
+    async function refreshRecentList() {
+      const listContainer = document.getElementById('recent-list');
+      try {
+        const { data, error } = await window.newsDataManager.client
+          .from('news')
+          .select('*')
+          .order('created_at', { ascending: false })
+          .limit(20);
+
+        if (error) throw error;
+        if (!data || data.length === 0) {
+          listContainer.innerHTML = '<div class="py-8 text-center text-gray-400 text-xs">暂无新闻记录</div>';
+          return;
+        }
+
+        const catBadges = {
+          'exchange-updates': '<span class="px-1.5 py-0.5 rounded bg-blue-100 text-blue-800 text-[10px] font-medium">交易所</span>',
+          'market-news': '<span class="px-1.5 py-0.5 rounded bg-emerald-100 text-emerald-800 text-[10px] font-medium">市场</span>',
+          'regulatory-updates': '<span class="px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 text-[10px] font-medium">监管</span>',
+          'macro-insights': '<span class="px-1.5 py-0.5 rounded bg-purple-100 text-purple-800 text-[10px] font-medium">宏观</span>'
+        };
+
+        const priBadges = {
+          0: '<span class="text-gray-400 text-[10px]">普通</span>',
+          1: '<span class="text-[#004098] font-bold text-[10px]">板块重点★</span>',
+          2: '<span class="text-red-600 font-bold text-[10px]">今日头条★★</span>'
+        };
+
+        listContainer.innerHTML = '';
+        data.forEach(item => {
+          window._newsCache = window._newsCache || {};
+          window._newsCache[item.title] = item;
+
+          const row = document.createElement('div');
+          row.className = 'pt-2.5 flex flex-col gap-1 group hover:bg-gray-50/80 p-2 rounded transition-colors';
+          row.innerHTML = `
+            <div class="flex items-center justify-between gap-2">
+              <div class="flex items-center gap-1.5">
+                ${catBadges[item.category] || ''}
+                ${priBadges[item.display_priority] || ''}
+              </div>
+              <span class="text-[11px] font-mono text-gray-400">${item.publish_date}</span>
+            </div>
+            <div class="text-xs font-semibold text-gray-800 line-clamp-1 group-hover:text-[#004098] cursor-pointer title-preview">
+              ${item.title}
+            </div>
+          `;
+          row.querySelector('.title-preview').addEventListener('click', () => {
+            if (window.newsModal) window.newsModal.open(item);
+          });
+          listContainer.appendChild(row);
+        });
+      } catch (err) {
+        listContainer.innerHTML = `<div class="py-8 text-center text-red-500 text-xs">加载失败: ${err.message || err}</div>`;
+      }
+    }
+
+    // 绑定表单提交
+    document.getElementById('news-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const submitBtn = document.getElementById('submit-btn');
+      const alertBox = document.getElementById('status-alert');
+
+      const category = document.getElementById('form-category').value;
+      const publish_date = document.getElementById('form-date').value;
+      const priorityRadio = document.querySelector('input[name="priority"]:checked');
+      const display_priority = parseInt(priorityRadio ? priorityRadio.value : '0');
+      const title = document.getElementById('form-title').value.trim();
+      const content = document.getElementById('form-content').value.trim();
+      const source_url = document.getElementById('form-link').value.trim();
+
+      if (!title || !content) {
+        alert('请完整填写新闻标题与正文！');
+        return;
+      }
+
+      submitBtn.disabled = true;
+      submitBtn.innerHTML = `
+        <svg class="animate-spin w-4 h-4 text-white" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z"></path></svg>
+        <span>同步写入中...</span>
+      `;
+
+      const payload = {
+        category,
+        title,
+        content,
+        display_priority,
+        source_url,
+        publish_date
+      };
+
+      const result = await window.newsDataManager.insertNews(payload);
+
+      submitBtn.disabled = false;
+      submitBtn.innerHTML = `
+        <span>立即发布入库</span>
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+      `;
+
+      if (result.success) {
+        alertBox.className = 'p-3 rounded-lg text-xs font-medium bg-emerald-50 text-emerald-800 border border-emerald-200 block';
+        alertBox.textContent = `✓ 新闻《${title.substring(0, 20)}...》已成功发布至 Supabase 数据库！`;
+        document.getElementById('form-title').value = '';
+        document.getElementById('form-content').value = '';
+        refreshRecentList();
+      } else {
+        alertBox.className = 'p-3 rounded-lg text-xs font-medium bg-red-50 text-red-800 border border-red-200 block';
+        alertBox.textContent = `发布失败：${result.error}`;
+      }
+    });
+
+    document.getElementById('refresh-btn').addEventListener('click', refreshRecentList);
+
+    // 页面启动时加载列表
+    document.addEventListener('DOMContentLoaded', () => {
+      refreshRecentList();
+    });
+  </script>
+</body>
+</html>
